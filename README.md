@@ -1,7 +1,7 @@
 ## RAG_Evaluation-RAGAs
 <h1 align="center">
   <img style="vertical-align:middle" height="200"
-  src="ragas.png">
+  src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/ragas.png">
 </h1>
 <p align="center">
   <i>Supercharge Your LLM Application Evaluations 🚀</i>
