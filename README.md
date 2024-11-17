@@ -38,3 +38,5 @@ pip install ragas
 Alternatively, from source:
 
 ```bash
+pip install git+https://github.com/explodinggradients/ragas
+```
